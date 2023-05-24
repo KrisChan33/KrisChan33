@@ -29,3 +29,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krischan33&show_icons=true&locale=en" alt="krischan33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krischan33&" alt="krischan33" /></p>
+
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KrisChan33&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KrisChan33&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisChan33&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KrisChan33&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/KrisChan33) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PayPal.Me@kristiantadeo) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/KrisChan33) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/krischan33) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
