@@ -31,14 +31,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krischan33&" alt="krischan33" /></p>
 
 
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KrisChan33&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KrisChan33&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisChan33&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<!--2nd Readme Editor-->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KrisChan33&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
