@@ -40,4 +40,4 @@
  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PayPal.Me@kristiantadeo) 
  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/KrisChan33) 
  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/krischan33)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->-->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
