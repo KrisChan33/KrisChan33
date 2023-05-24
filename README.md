@@ -31,7 +31,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krischan33&" alt="krischan33" /></p>
 
 
-<!--2nd Readme Editor
+<!--2nd Readme Editor-->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KrisChan33&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
