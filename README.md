@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krischan33&show_icons=true&locale=en" alt="krischan33" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krischan33&" alt="krischan33" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=krischan33&" alt="krischan33" /></p>
 
 
 <!--2nd Readme Editor-->
