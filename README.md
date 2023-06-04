@@ -51,6 +51,14 @@
 <!-- other design of trophy
 ![](https://github-profile-trophy.vercel.app/?username=KrisChan33&theme=flat&no-frame=false&no-bg=false&margin-w=4)-->
 </details>
+
+
+<details>
+    <summary>🔝<b>Top Contributed Repo</b></summary><br/>
+
+![Github Top Repo](![](https://github-contributor-stats.vercel.app/api?username=KrisChan33&limit=5&theme=dark&combine_all_yearly_contributions=true))
+</details>
+
 <hr> </hr>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -66,7 +74,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KrisChan33&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 💰 You can help me by Donating
