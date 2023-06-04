@@ -33,6 +33,7 @@
 -->
 
 <hr> </hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krischan33&show_icons=true&locale=en&layout=compact" alt="krischan33" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krischan33&show_icons=true&locale=en" alt="krischan33" /></p>
@@ -41,7 +42,14 @@
 
 
 <!--2nd Readme Editor-->
+<---->
 ## 🏆 GitHub Trophies
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=warengonzaga)
+
+</details>
 ![](https://github-profile-trophy.vercel.app/?username=KrisChan33&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💰 You can help me by Donating
