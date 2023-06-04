@@ -86,7 +86,6 @@
 This are the list of resources I find helpful and would like to give credit. I've included a few of my favorites to kick things off!
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 * [Readme Typing SVG](https://elements.heroku.com/buttons/denvercoder1/readme-typing-svg)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
