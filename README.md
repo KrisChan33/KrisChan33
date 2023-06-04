@@ -7,8 +7,6 @@
 
 [![Typing SVG ](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Im+a+Filipino%2C+Full+Stack+Developer;and+Open+Source+Developer;Nice+to+meet+You!)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krischan33&label=Profile%20views&color=0e75b6&style=flat" alt="krischan33" /> </p>
-
 - 🌱 I’m currently learning **Godot(GdScript)**
 
 - 💬 Ask me about **HTML,CSS,Php,SQL**
@@ -33,6 +31,8 @@
 -->
 
 ## Account Details
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krischan33&label=Profile%20views&color=0e75b6&style=flat" alt="krischan33" /> </p>
+
 <details>
  <summary>&#9889 <b>GitHub Statistics</b></summary><br/>
 
