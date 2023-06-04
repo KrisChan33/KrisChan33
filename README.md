@@ -32,7 +32,7 @@
 ![skills](https://skillicons.dev/iconsi=html,css,bootstrap,java,js,php,mysql,python,vscode,arduino,blender,photoshop,linux&theme=light)
 -->
 
-### Account Details
+## Account Details
 <details>
  <summary>&#9889 <b>GitHub Statistics</b></summary><br/>
 
