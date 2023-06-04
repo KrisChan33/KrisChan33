@@ -51,6 +51,7 @@
 <!-- other design of trophy
 ![](https://github-profile-trophy.vercel.app/?username=KrisChan33&theme=flat&no-frame=false&no-bg=false&margin-w=4)-->
 </details>
+<hr> </hr>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
