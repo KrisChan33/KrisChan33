@@ -2,7 +2,9 @@
 
 ![logo](https://github.com/KrisChan33/KrisChan33/blob/main/githubimage.png)
 <h3 align="center">A passionate Full Stack Developer in the Philippines</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
+Filipino senior software engineer, opensource developer and advocate, cybersecurity researcher, tech community leader, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krischan33&label=Profile%20views&color=0e75b6&style=flat" alt="krischan33" /> </p>
