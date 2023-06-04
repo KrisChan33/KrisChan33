@@ -42,12 +42,10 @@
 
 
 <!--2nd Readme Editor-->
-<---->
-
 <details>
-    <summary>&#127942 <b>## 🏆 GitHub Trophies</b></summary><br/>
+    <summary>&#127942 <b>GitHub Trophies</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=warengonzaga)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=krisChan33)
 
 </details>
 ![](https://github-profile-trophy.vercel.app/?username=KrisChan33&theme=flat&no-frame=false&no-bg=false&margin-w=4)
