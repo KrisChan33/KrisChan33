@@ -32,9 +32,9 @@
 ![skills](https://skillicons.dev/iconsi=html,css,bootstrap,java,js,php,mysql,python,vscode,arduino,blender,photoshop,linux&theme=light)
 -->
 
-<hr> </hr>
+### Account Details
 <details>
- <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+ <summary>&#9889 <b>GitHub Statistics</b></summary><br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=KrisChan33&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KrisChan33&theme=algolia&hide_border=true)<br/>
@@ -54,7 +54,7 @@
 
 
 <details>
-    <summary>🔝<b>Top Contributed Repo</b></summary><br/>
+    <summary>🔝<b>Top Contributed Repository</b></summary><br/>
 
 ![Github Top Repo](https://github-contributor-stats.vercel.app/api?username=KrisChan33&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </details>
