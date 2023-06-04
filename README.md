@@ -49,7 +49,8 @@
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=krisChan33)
 <!-- other design of trophy
-![](https://github-profile-trophy.vercel.app/?username=KrisChan33&theme=flat&no-frame=false&no-bg=false&margin-w=4)-->
+![](https://github-profile-tropy.vercel.app/?username=KrisChan33&theme=flat&no-frame=false&no-bg=false&margin-w=4)-->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
 
 
@@ -57,6 +58,8 @@
     <summary>🔝<b>Top Contributed Repository</b></summary><br/>
 
 ![Github Top Repo](https://github-contributor-stats.vercel.app/api?username=KrisChan33&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 </details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
