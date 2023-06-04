@@ -88,6 +88,7 @@ This are the list of resources I find helpful and would like to give credit. I'v
 * [Choose an Open Source License](https://choosealicense.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 * [Readme Typing SVG](https://elements.heroku.com/buttons/denvercoder1/readme-typing-svg)
+* [Github Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <hr>
