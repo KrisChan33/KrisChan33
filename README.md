@@ -43,9 +43,9 @@
 
 <!--2nd Readme Editor-->
 <---->
-## 🏆 GitHub Trophies
+
 <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+    <summary>&#127942 <b>## 🏆 GitHub Trophies</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=warengonzaga)
 
