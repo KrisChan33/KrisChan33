@@ -56,7 +56,7 @@
 <details>
     <summary>🔝<b>Top Contributed Repo</b></summary><br/>
 
-![Github Top Repo](![](https://github-contributor-stats.vercel.app/api?username=KrisChan33&limit=5&theme=dark&combine_all_yearly_contributions=true))
+![Github Top Repo]![](https://github-contributor-stats.vercel.app/api?username=KrisChan33&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </details>
 
 <hr> </hr>
