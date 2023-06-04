@@ -1,5 +1,5 @@
 # Hi 👋, I'm Kristian Jay Tadeo
-<a name="readme-top"> </a >
+<a name="#readme-top"> </a >
 ![logo](https://github.com/KrisChan33/KrisChan33/blob/main/githubimage.png)
 <h3 align="center">A passionate Full Stack Developer in the Philippines</h3>
 
@@ -71,7 +71,7 @@
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments:
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+This are the list of resources I find helpful and would like to give credit. I've included a few of my favorites to kick things off!
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
