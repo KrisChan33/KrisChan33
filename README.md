@@ -81,5 +81,5 @@ Use this space to list resources you find helpful and would like to give credit 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
-
+* [GiKeyboard]https://readme-typing-svg.demolab.com/demo/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
