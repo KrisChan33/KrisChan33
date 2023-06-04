@@ -1,7 +1,7 @@
 <a name="readme-top"> </a >
 # Hi 👋, I'm Kristian Jay Tadeo (💻💖☕)
-![logo](https://github.com/KrisChan33/KrisChan33/blob/main/githubimage.png)
 <h3 align="center">A passionate Full Stack Developer in the Philippines</h3>
+![logo](https://github.com/KrisChan33/KrisChan33/blob/main/githubimage.png)
 
 [![Typing SVG ](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Im+a+Filipino%2C+Full+Stack+Developer;and+Open+Source+Developer;Nice+to+meet+You!)](https://git.io/typing-svg)
  
