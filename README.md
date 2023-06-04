@@ -5,8 +5,6 @@
 <h3 align="center">A passionate Full Stack Developer in the Philippines</h3>
 
 [![Typing SVG ](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Im+a+Filipino%2C+Full+Stack+Developer;and+Open+Source+Developer;Nice+to+meet+You!)](https://git.io/typing-svg)
- 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krischan33&label=Profile%20views&color=0e75b6&style=flat" alt="krischan33" /> </p>
 
@@ -34,6 +32,8 @@
 -->
 
 ## Account Details
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+
 <details>
  <summary>&#9889 <b>GitHub Statistics</b></summary><br/>
 
