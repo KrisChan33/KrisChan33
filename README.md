@@ -93,4 +93,5 @@ This are the list of resources I find helpful and would like to give credit. I'v
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <hr>
-created by [Kristian Jay Tadeo](https://github.com/KrisChan33) | Thank you for Visiting🙏
+
+created by [Kristian Jay Tadeo](https://github.com/KrisChan33)|Thank you for Visiting🙏
