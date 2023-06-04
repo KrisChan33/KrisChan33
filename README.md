@@ -59,6 +59,7 @@
 ![Github Top Repo](https://github-contributor-stats.vercel.app/api?username=KrisChan33&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </details>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <hr> </hr>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
