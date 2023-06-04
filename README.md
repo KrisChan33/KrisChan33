@@ -1,5 +1,5 @@
 <a name="readme-top"> </a >
-# Hi 👋, I'm Kristian Jay Tadeo (👨‍💻💖☕)
+# Hi 👋, I'm Kristian Jay Tadeo <img srd = "https://youtu.be/ehLbStdOxek" height="65px" width= "65px" >
 ![logo](https://github.com/KrisChan33/KrisChan33/blob/main/githubimage.png)
 <h3 align="center">A passionate Full Stack Developer in the Philippines</h3>
 
