@@ -36,7 +36,10 @@
 <details>
  <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Kristian Jay Tadeo Github Stats](https://readme-stats.KrisChan33.com/api?username=KrisChan33&show_icons=true&count_private=true)](https://github.com/KrisChan33/github-readme-stats) [![Top Language](https://readme-stats.KrisChan33.com/api/top-langs?username=KrisChan33&layout=compact)](https://github.com/KrisChan33/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=KrisChan33&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KrisChan33&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisChan33&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 </details>
 
