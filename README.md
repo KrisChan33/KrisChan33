@@ -90,6 +90,7 @@ This are the list of resources I find helpful and would like to give credit. I'v
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 * [Readme Typing SVG](https://elements.heroku.com/buttons/denvercoder1/readme-typing-svg)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <hr>
-created by [Kristian Jay Tadeo](https://github.com/KrisChan33) | Thank you for Visiting🙏<p align="right">(<a href="#readme-top">back to top</a>)</p>
+created by [Kristian Jay Tadeo](https://github.com/KrisChan33) | Thank you for Visiting🙏
