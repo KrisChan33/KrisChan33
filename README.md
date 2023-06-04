@@ -94,4 +94,4 @@ This are the list of resources I find helpful and would like to give credit. I'v
 
 <hr>
 
-created by [Kristian Jay Tadeo](https://github.com/KrisChan33)|Thank you for Visiting🙏
+created by [Kristian Jay Tadeo](https://github.com/KrisChan33) | Thank you for Visiting🙏
