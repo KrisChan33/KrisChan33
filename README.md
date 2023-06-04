@@ -48,9 +48,10 @@
     <summary>&#127942 <b>GitHub Trophies</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=krisChan33)
-
+<!-- other design of trophy
+![](https://github-profile-trophy.vercel.app/?username=KrisChan33&theme=flat&no-frame=false&no-bg=false&margin-w=4)-->
 </details>
-![](https://github-profile-trophy.vercel.app/?username=KrisChan33&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/KrisChan33) 
