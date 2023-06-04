@@ -1,5 +1,5 @@
 <a name="readme-top"> </a >
-# Hi 👋, I'm Kristian Jay Tadeo <img src = "<iframe src="https://giphy.com/embed/RJVw6tIfb2dIwTHFb0" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NeighborlyNotaryNYC-congrats-man-office-dispassionate-RJVw6tIfb2dIwTHFb0">via GIPHY</a></p>" >
+# Hi 👋, I'm Kristian Jay Tadeo <img src ="https://giphy.com/embed/RJVw6tIfb2dIwTHFb0" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/NeighborlyNotaryNYC-congrats-man-office-dispassionate-RJVw6tIfb2dIwTHFb0">via GIPHY</a></p>" >
 ![logo](https://github.com/KrisChan33/KrisChan33/blob/main/githubimage.png)
 <h3 align="center">A passionate Full Stack Developer in the Philippines</h3>
 
