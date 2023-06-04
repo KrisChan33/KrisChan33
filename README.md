@@ -1,4 +1,4 @@
-#Hi 👋, I'm Kristian Jay Tadeo
+# Hi 👋, I'm Kristian Jay Tadeo
 ![logo](https://github.com/KrisChan33/KrisChan33/blob/main/githubimage.png)
 <h3 align="center">A passionate Full Stack Developer in the Philippines</h3>
 
