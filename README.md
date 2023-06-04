@@ -33,13 +33,11 @@
 -->
 
 <hr> </hr>
+ <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krischan33&show_icons=true&locale=en&layout=compact" alt="krischan33" /></p>
+[![Kristian Jay Tadeo Github Stats](https://readme-stats.KrisChan33.com/api?username=KrisChan33&show_icons=true&count_private=true)](https://github.com/KrisChan33/github-readme-stats) [![Top Language](https://readme-stats.KrisChan33.com/api/top-langs?username=KrisChan33&layout=compact)](https://github.com/KrisChan33/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krischan33&show_icons=true&locale=en" alt="krischan33" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krischan33&" alt="krischan33" /></p>
-
+</details>
 
 <!--2nd Readme Editor-->
 <details>
