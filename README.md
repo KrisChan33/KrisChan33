@@ -33,6 +33,7 @@
 -->
 
 <hr> </hr>
+<details>
  <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
 [![Kristian Jay Tadeo Github Stats](https://readme-stats.KrisChan33.com/api?username=KrisChan33&show_icons=true&count_private=true)](https://github.com/KrisChan33/github-readme-stats) [![Top Language](https://readme-stats.KrisChan33.com/api/top-langs?username=KrisChan33&layout=compact)](https://github.com/KrisChan33/github-readme-stats)
