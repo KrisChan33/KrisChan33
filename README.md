@@ -81,7 +81,7 @@
  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/krischan33)
 
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- ACKNOWLEDGMENTS
 ## Acknowledgments:
 
 This are the list of resources I find helpful and would like to give credit. I've included a few of my favorites to kick things off!
@@ -91,7 +91,7 @@ This are the list of resources I find helpful and would like to give credit. I'v
 * [Readme Typing SVG](https://elements.heroku.com/buttons/denvercoder1/readme-typing-svg)
 * [Github Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ -->
 <hr>
 
 created by [Kristian Jay Tadeo](https://github.com/KrisChan33) | Thank you for Visiting🙏
