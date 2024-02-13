@@ -73,7 +73,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=KrisChan33&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 -->
 ### ✍️ Random Dev Quote
+<center>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+</center>
 
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/KrisChan33) 
