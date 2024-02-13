@@ -8,7 +8,7 @@
 [![Typing SVG ](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Im+a+Filipino%2C+Full+Stack+Developer;and+Open-Source+Developer;Nice+to+meet+You!)](https://git.io/typing-svg)
 
 
-- 🌱 I’m currently learning **Godot(GdScript)**
+- 🌱 I’m currently learning **Laravel and other Frameworks**
 
 - 💬 Ask me about **HTML,CSS,Php,SQL**
 
