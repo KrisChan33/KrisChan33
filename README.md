@@ -7,9 +7,6 @@
 
 [![Typing SVG ](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Im+a+Filipino%2C+Full+Stack+Developer;and+Open-Source+Developer;Nice+to+meet+You!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&random=false&width=435&lines=Im+a+Filipino%2C+Full-Stack+and+Open+Source+Developer;+from+the+PH%2C+specializing+in+Web+and+Game+Development)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&size=26&duration=4000&pause=1000&vCenter=true&random=false&width=460&height=70&lines=Hello+there!+I'm+a+BSIT+Student%2C;a+Full-Stack+%26+Open+Source+Developer;specializing+in+Web+and+Game+Development.;I'm+from+the+Philippines%2C+Nice+to+meet+you!+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Laravel and other Frameworks**
 
