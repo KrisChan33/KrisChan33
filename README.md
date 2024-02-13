@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Laravel and other Frameworks**
 
-- 💬 Ask me about **HTML,CSS,Php,SQL**
+- 💬 Ask me about **Godot, Photoshop, Laravel and etc.**
 
 - 📫 How to reach me **ktadeo.pbox@parsu.edu**
 
