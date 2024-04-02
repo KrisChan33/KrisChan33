@@ -23,9 +23,10 @@
   </a>
    <a href="https://fb.com/profile.php?id=100092249816147">
     <img src="https://imgs.search.brave.com/PpLrGFmu2rHOj82rlcfjcnlIahiF8ejK1_wp_akXpp8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy81/LzUxL0ZhY2Vib29r/X2ZfbG9nb18oMjAx/OSkuc3Zn.svg" />
-  </a>
+
+   </a>
    <a href="https://www.behance.net/https://www.behance.net/kristianjaytadeo">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://imgs.search.brave.com/YVOXJCgJsbHTPVm-MsDtgO5WvobT8Pb5_g-4M-mAeYE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy13b3JsZC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDQvQmVoYW5jZS1T/eW1ib2wtNzAweDM5/NC5wbmc" />
   </a>
 
 </p>
