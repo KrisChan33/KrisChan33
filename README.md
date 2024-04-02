@@ -77,7 +77,7 @@
   </a>
 
   <a href="https://photoshop.com/en">
-    <img src="https://skillicons.dev/icons?i=photoshop" />
+    <img src="https://skillicons.dev/icons?i=ps" />
   </a>
 
   <a href="https://php.net">
