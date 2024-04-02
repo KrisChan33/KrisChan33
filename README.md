@@ -37,23 +37,23 @@
   </a>
   
   <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=blender" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
   
  <a href="https://cprogramming.com/">
-    <img src="https://skillicons.dev/icons?i=C" />
+    <img src="https://skillicons.dev/icons?i=c" />
   </a>
   
  <a href="https://w3schools.com/cpp/">
-    <img src="https://skillicons.dev/icons?i=C++" />
+    <img src="https://skillicons.dev/icons?i=c++" />
   </a>
 
    <a href="w3schools.com/css">
-    <img src="https://skillicons.dev/icons?i=CSS" />
+    <img src="https://skillicons.dev/icons?i=css" />
   </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-    <img src="https://skillicons.dev/icons?i=HTML" />
+    <img src="https://skillicons.dev/icons?i=html" />
   </a>
 
 <a href="java.com">
