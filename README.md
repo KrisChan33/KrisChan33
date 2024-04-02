@@ -29,9 +29,7 @@
 
 <p align="center">
  [![My Skills](https://skillicons.dev/icons?i=arduino)](https://arduino.com)
-  </a>
 
- 
 </p>
  
 </p>
