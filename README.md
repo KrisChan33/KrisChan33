@@ -28,11 +28,10 @@
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+ [![My Skills](https://skillicons.dev/icons?i=arduino)](https://arduino.com)
   </a>
 
- [![My Skills](https://skillicons.dev/icons?i=arduino)](https://arduino.com)
+ 
 </p>
  
 </p>
