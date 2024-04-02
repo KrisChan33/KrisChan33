@@ -32,7 +32,7 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=arduino)](https://arduino.com)
 </p>
  
 </p>
