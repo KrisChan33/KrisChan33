@@ -27,7 +27,7 @@
 </a>
  
 <a href="https://www.behance.net/kristianjaytadeo">
-    <img src="https://imgs.search.brave.com/YVOXJCgJsbHTPVm-MsDtgO5WvobT8Pb5_g-4M-mAeYE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy13b3JsZC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDQvQmVoYW5jZS1T/eW1ib2wtNzAweDM5/NC5wbmc" alt="Behance" width="50px" height="50px" />
+    <img src="https://imgs.search.brave.com/YVOXJCgJsbHTPVm-MsDtgO5WvobT8Pb5_g-4M-mAeYE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy13b3JsZC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDQvQmVoYW5jZS1T/eW1ib2wtNzAweDM5/NC5wbmc" alt="Behance" width="100px" height="50px" />
 </a>
 
 
