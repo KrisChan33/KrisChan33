@@ -45,7 +45,7 @@
   </a>
   
  <a href="https://w3schools.com/cpp/">
-    <img src="https://skillicons.dev/icons?i=c++" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
 
    <a href="w3schools.com/css">
@@ -65,7 +65,7 @@
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript " />
+    <img src="https://skillicons.dev/icons?i=js " />
   </a>
 
   <a href="https://linux.org">
@@ -81,15 +81,11 @@
   </a>
 
   <a href="https://php.net">
-    <img src="https://skillicons.dev/icons?i=Php" />
+    <img src="https://skillicons.dev/icons?i=php" />
   </a>
 
    <a href="https://python.org">
     <img src="https://skillicons.dev/icons?i=python"/>
-  </a>
-
-   <a href="https://php.net">
-    <img src="https://skillicons.dev/icons?i=php" />
   </a>
 
    <a href="https://git-scm.com">
