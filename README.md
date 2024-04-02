@@ -61,7 +61,7 @@
   </a>
 
 <a href="https://gnu.org/software/bash">
-    <img src="https://skillicons.dev/icons?i=Bash " />
+    <img src="https://skillicons.dev/icons?i=bash " />
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -85,22 +85,22 @@
   </a>
 
    <a href="https://python.org">
-    <img src="https://skillicons.dev/icons?i=Python"/>
+    <img src="https://skillicons.dev/icons?i=python"/>
   </a>
 
    <a href="https://php.net">
-    <img src="https://skillicons.dev/icons?i=Php" />
+    <img src="https://skillicons.dev/icons?i=php" />
   </a>
 
    <a href="https://git-scm.com">
-    <img src="https://skillicons.dev/icons?i=Git"/>
+    <img src="https://skillicons.dev/icons?i=git"/>
   </a>
 
    <a href="https://laravel.com">
-    <img src="https://skillicons.dev/icons?i=Laravel"/>
+    <img src="https://skillicons.dev/icons?i=laravel"/>
   </a>
      <a href="https://tailwind.com">
-    <img src="https://skillicons.dev/icons?i=Tailwindcss"/>
+    <img src="https://skillicons.dev/icons?i=tailwindcss"/>
   </a>
 
   
