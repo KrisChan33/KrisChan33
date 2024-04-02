@@ -28,10 +28,82 @@
 
 
 <p align="center">
-  <a href="">
+  <a href="https://www.arduino.cc/">
     <img src="https://skillicons.dev/icons?i=arduino" />
   </a>
- 
+
+  <a href="https://blender.org/">
+    <img src="https://skillicons.dev/icons?i=blender" />
+  </a>
+  
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=blender" />
+  </a>
+  
+ <a href="https://cprogramming.com/">
+    <img src="https://skillicons.dev/icons?i=C" />
+  </a>
+  
+ <a href="https://w3schools.com/cpp/">
+    <img src="https://skillicons.dev/icons?i=C++" />
+  </a>
+
+   <a href="w3schools.com/css">
+    <img src="https://skillicons.dev/icons?i=CSS" />
+  </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+    <img src="https://skillicons.dev/icons?i=HTML" />
+  </a>
+
+<a href="java.com">
+    <img src="https://skillicons.dev/icons?i=java " />
+  </a>
+
+<a href="https://gnu.org/software/bash">
+    <img src="https://skillicons.dev/icons?i=Bash " />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript " />
+  </a>
+
+  <a href="https://linux.org">
+    <img src="https://skillicons.dev/icons?i=linux  " />
+  </a>
+
+  <a href="https://mysql.com">
+    <img src="https://skillicons.dev/icons?i=mysql " />
+  </a>
+
+  <a href="https://photoshop.com/en">
+    <img src="https://skillicons.dev/icons?i=photoshop" />
+  </a>
+
+  <a href="https://php.net">
+    <img src="https://skillicons.dev/icons?i=Php" />
+  </a>
+
+   <a href="https://python.org">
+    <img src="https://skillicons.dev/icons?i=Python"/>
+  </a>
+
+   <a href="https://php.net">
+    <img src="https://skillicons.dev/icons?i=Php" />
+  </a>
+
+   <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=Git"/>
+  </a>
+
+   <a href="https://laravel.com">
+    <img src="https://skillicons.dev/icons?i=Laravel"/>
+  </a>
+     <a href="https://tailwind.com">
+    <img src="https://skillicons.dev/icons?i=Tailwindcss"/>
+  </a>
+
+  
 </p>
 
 <!--Logo Only doesnt have a link 
