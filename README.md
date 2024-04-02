@@ -21,9 +21,13 @@
  <a href="https://www.arduino.cc/](https://linkedin.com/in/www.linkedin.com/in/kristian-jay-tadeo">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
-<a href="https://fb.com/profile.php?id=100092249816147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100092249816147" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/kristianjaytadeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/kristianjaytadeo" height="30" width="40" /></a>
+   <a href="https://fb.com/profile.php?id=100092249816147">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+   <a href="https://www.behance.net/https://www.behance.net/kristianjaytadeo">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
 </p>
 
 
