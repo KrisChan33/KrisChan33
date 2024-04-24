@@ -19,7 +19,7 @@
 ## 📠 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/kristian-jay-tadeo">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50px" height="50px" />
+    <img src="https://rb.gy/k3m45n" alt="LinkedIn" width="50px" height="50px" />
 </a>
  
 <a href="https://www.facebook.com/profile.php?id=100092249816147">
