@@ -154,7 +154,6 @@
 ## 💰 You can help me by Donating
  [![BuyMeACoffee](https://rb.gy/drv33t)](https://rb.gy/bdsyzz) 
  [![PayPal](https://rb.gy/1b6ivh)](https://rb.gy/m19yb4) 
- [![Patreon](https://patreon.com/patreon.com/KrisChan33) 
  [![Ko-Fi](https://rb.gy/1nurh6)](https://rb.gy/bf95eg)
 
 
