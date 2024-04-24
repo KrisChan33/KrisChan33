@@ -106,10 +106,113 @@
    <a href="https://laravel.com">
     <img src="https://skillicons.dev/icons?i=laravel"/>
   </a>
-     <a href="https://tailwind.com">
+  
+  <a href="https://tailwind.com">
     <img src="https://skillicons.dev/icons?i=tailwindcss"/>
   </a>
 
+
+
+
+<a href="https://npmjs.com">
+  <img src="https://skillicons.dev/icons?i=npm"/>
+</a>
+
+<a href="https://nodejs.org">
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+</a>
+
+<a href="https://ngrok.com">
+  <img src="https://skillicons.dev/icons?i=ngrok"/>
+</a>
+
+<a href="https://filament.com">
+  <img src="https://skillicons.dev/icons?i=filament"/>
+</a>
+
+<a href="https://livewire.com">
+  <img src="https://skillicons.dev/icons?i=livewire"/>
+</a>
+
+<a href="https://obsidian.com">
+  <img src="https://skillicons.dev/icons?i=obsidian"/>
+</a>
+
+<a href="https://firebase.com">
+  <img src="https://skillicons.dev/icons?i=firebase"/>
+</a>
+
+<a href="https://heidisql.com">
+  <img src="https://skillicons.dev/icons?i=heidisql"/>
+</a>
+
+<a href="https://discord.com">
+  <img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+
+<a href="https://heroicons.com">
+  <img src="https://skillicons.dev/icons?i=heroicons"/>
+</a>
+
+<a href="https://spatie.be">
+  <img src="https://skillicons.dev/icons?i=spatie"/>
+</a>
+
+<a href="https://laragon.org">
+  <img src="https://skillicons.dev/icons?i=laragon"/>
+</a>
+
+<a href="https://xampp.com">
+  <img src="https://skillicons.dev/icons?i=xampp"/>
+</a>
+
+<a href="https://wampp.com">
+  <img src="https://skillicons.dev/icons?i=wampp"/>
+</a>
+
+<a href="https://ubuntu.com">
+  <img src="https://skillicons.dev/icons?i=ubuntu"/>
+</a>
+
+<a href="https://visualstudio.com">
+  <img src="https://skillicons.dev/icons?i=visualstudio"/>
+</a>
+
+<a href="https://code.visualstudio.com">
+  <img src="https://skillicons.dev/icons?i=vscode"/>
+</a>
+
+<a href="https://windows.com">
+  <img src="https://skillicons.dev/icons?i=windows"/>
+</a>
+
+<a href="https://md.com">
+  <img src="https://skillicons.dev/icons?i=md"/>
+</a>
+
+<a href="https://py.com">
+  <img src="https://skillicons.dev/icons?i=py"/>
+</a>
+
+<a href="https://godotengine.org">
+  <img src="https://skillicons.dev/icons?i=godot"/>
+</a>
+
+<a href="https://github.com">
+  <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://visualbasic.net">
+  <img src="https://skillicons.dev/icons?i=visualbasic"/>
+</a>
+
+<a href="https://androidstudio.com">
+  <img src="https://skillicons.dev/icons?i=androidstudio"/>
+</a>
+
+<a href="https://firebase.com">
+  <img src="https://skillicons.dev/icons?i=firebase"/>
+</a>
   
 </p>
 
