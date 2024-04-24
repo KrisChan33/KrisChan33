@@ -3,7 +3,7 @@
 
 ![logo](https://github.com/KrisChan33/KrisChan33/blob/main/githubimage.png)
 <h3 align="center">A passionate Full Stack Web Developer in the Philippines</h3>
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img align="right" alt="coding" width="350" src="https://rb.gy/mbprke">
 
 [![Typing SVG ](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Im+a+Filipino%2C+Full+Stack+Developer;and+Open-Source+Developer;Nice+to+meet+You!)](https://git.io/typing-svg)
 
@@ -118,7 +118,7 @@
 -->
 
 ## Account Details
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krischan33&label=Profile%20views&color=0e75b6&style=flat" alt="krischan33" /> </p>
+<p align="left"> <img src="https://rb.gy/6hj1ce" alt="krischan33" /> </p>
 
 <details>
  <summary>&#9889 <b>GitHub Statistics</b></summary><br/>
@@ -148,20 +148,11 @@
 <hr> </hr>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KrisChan33&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KrisChan33&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisChan33&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KrisChan33&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
--->
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://rb.gy/zarqxi)
 
 ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/KrisChan33) 
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/KrisChan33) 
  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PayPal.Me@kristiantadeo) 
  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/KrisChan33) 
  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/krischan33)
