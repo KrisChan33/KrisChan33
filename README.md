@@ -3,7 +3,7 @@
 
 ![logo](https://github.com/KrisChan33/KrisChan33/blob/main/githubimage.png)
 <h3 align="center">A passionate Full Stack Web Developer in the Philippines</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 [![Typing SVG ](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Im+a+Filipino%2C+Full+Stack+Developer;and+Open-Source+Developer;Nice+to+meet+You!)](https://git.io/typing-svg)
 
@@ -15,7 +15,8 @@
 - 📫 How to reach me **ktadeo.pbox@parsu.edu**
 
 - ⚡ Fun fact **I Love Coding 👨‍💻**
-<br>
+
+
 ## 📠 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/kristian-jay-tadeo">
