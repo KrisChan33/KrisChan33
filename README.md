@@ -15,7 +15,7 @@
 - 📫 How to reach me **ktadeo.pbox@parsu.edu**
 
 - ⚡ Fun fact **I Love Coding 👨‍💻**
-
+<br>
 ## 📠 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/kristian-jay-tadeo">
