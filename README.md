@@ -23,11 +23,11 @@
 </a>
  
 <a href="https://www.facebook.com/profile.php?id=100092249816147">
-    <img src="https://imgs.search.brave.com/PpLrGFmu2rHOj82rlcfjcnlIahiF8ejK1_wp_akXpp8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy81/LzUxL0ZhY2Vib29r/X2ZfbG9nb18oMjAx/OSkuc3Zn.svg" alt="Facebook" width="50px" height="50px" />
+    <img src="https://rb.gy/j3nw46" alt="Facebook" width="50px" height="50px" />
 </a>
 
-<a href="https://www.behance.net/kristianjaytadeo" style="border-radius: 10%; overflow: hidden;">
-    <img src="https://imgs.search.brave.com/3ag96B3gsysLvTgrxDLckBBq1qHWcE9bXoJpU9nqMMU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzEx/L0JlaGFuY2UtTG9n/by0yMDIwLTUwMHg1/MDAuanBn" alt="Behance" width="50px" height="50px" style="border-radius: 10%;" />
+<a href="https://www.behance.net/kristianjaytadeo">
+    <img src="https://rb.gy/4v8w40" alt="Behance" width="50px" height="50px" style="border-radius: 10%;" />
 </a>
 
 
