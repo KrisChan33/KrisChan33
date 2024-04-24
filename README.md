@@ -152,10 +152,10 @@
 ![](https://rb.gy/zarqxi)
 
 ## 💰 You can help me by Donating
- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/KrisChan33) 
- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PayPal.Me@kristiantadeo) 
- [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/KrisChan33) 
- [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/krischan33)
+ [![BuyMeACoffee](https://rb.gy/drv33t)](https://rb.gy/bdsyzz) 
+ [![PayPal](https://rb.gy/1b6ivh)](https://rb.gy/m19yb4) 
+ [![Patreon](https://rb.gy/gxbocje)](https://patreon.com/patreon.com/KrisChan33) 
+ [![Ko-Fi](https://rb.gy/1nurh6)](https://rb.gy/bf95eg)
 
 
 <!-- ACKNOWLEDGMENTS
@@ -171,4 +171,4 @@ This are the list of resources I find helpful and would like to give credit. I'v
  -->
 <hr>
 
-created by [Kristian Jay Tadeo](https://github.com/KrisChan33) | Thank you for Visiting🙏
+created by [Kristian Jay Tadeo](https://rb.gy/evz163) | Thank you for Visiting🙏
