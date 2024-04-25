@@ -68,11 +68,11 @@
   </a>
 
 <a href="java.com">
-    <img src="https://skillicons.dev/icons?i=java " />
+    <img src="https://skillicons.dev/icons?i=java&theme=light" />
   </a>
 
 <a href="https://gnu.org/software/bash">
-    <img src="https://skillicons.dev/icons?i=bash " />
+    <img src="https://skillicons.dev/icons?i=bash&theme=light" />
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -80,11 +80,11 @@
   </a>
 
   <a href="https://linux.org">
-    <img src="https://skillicons.dev/icons?i=linux  " />
+    <img src="https://skillicons.dev/icons?i=linux &theme=light " />
   </a>
 
   <a href="https://mysql.com">
-    <img src="https://skillicons.dev/icons?i=mysql " />
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light " />
   </a>
 
   <a href="https://photoshop.com/en">
@@ -92,7 +92,7 @@
   </a>
 
   <a href="https://php.net">
-    <img src="https://skillicons.dev/icons?i=php" />
+    <img src="https://skillicons.dev/icons?i=php&theme=light" />
   </a>
 
    <a href="https://python.org">
@@ -100,7 +100,7 @@
   </a>
 
    <a href="https://git-scm.com">
-    <img src="https://skillicons.dev/icons?i=git"/>
+    <img src="https://skillicons.dev/icons?i=git&theme=light"/>
   </a>
 
    <a href="https://laravel.com">
@@ -108,10 +108,8 @@
   </a>
   
   <a href="https://tailwind.com">
-    <img src="https://skillicons.dev/icons?i=tailwindcss"/>
+    <img src="https://skillicons.dev/icons?i=tailwindcss&theme=light"/>
   </a>
-
-
 
 
 <a href="https://npmjs.com">
