@@ -129,7 +129,7 @@
 </a>
 
 <a href="https://livewire.com">
-  <img src="https://rb.gy/i7cq0f" width="50" height="50/>
+  <img src="https://rb.gy/i7cq0f" width="48" height="48/>
 </a>
 
 <a href="https://https://obsidian.md/">
