@@ -120,9 +120,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs"/>
 </a>
 
-<a href="https://ngrok.com">
-  <img src="https://skillicons.dev/icons?i=ngrok"/>
-</a>
+<a href="#">
+    <img src="https://simpleskill.icons.workers.dev/svg?i=ngrok&theme=light"/>
+  </a>
 
 <a href="https://filament.com">
   <img src="https://skillicons.dev/icons?i=filament"/>
