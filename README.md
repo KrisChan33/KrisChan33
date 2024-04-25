@@ -59,7 +59,7 @@
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
 
-   <a href="w3schools.com/css">
+   <a href="https://www.w3schools.com/css/">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
 
@@ -67,7 +67,7 @@
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
 
-<a href="java.com">
+<a href="https://www.java.com/en/">
     <img src="https://skillicons.dev/icons?i=java&theme=light" />
   </a>
 
@@ -80,7 +80,7 @@
   </a>
 
   <a href="https://linux.org">
-    <img src="https://skillicons.dev/icons?i=linux &theme=light " />
+    <img src="https://skillicons.dev/icons?i=linux&theme=light " />
   </a>
 
   <a href="https://mysql.com">
@@ -107,7 +107,7 @@
     <img src="https://skillicons.dev/icons?i=laravel"/>
   </a>
   
-  <a href="https://tailwind.com">
+  <a href="https://tailwindui.com/">
     <img src="https://skillicons.dev/icons?i=tailwindcss&theme=light"/>
   </a>
 
@@ -120,23 +120,23 @@
   <img src="https://skillicons.dev/icons?i=nodejs"/>
 </a>
 
-<a href="#">
+<a href="https://ngrok.com/">
     <img src="https://simpleskill.icons.workers.dev/svg?i=ngrok&theme=light"/>
   </a>
 
-<a href="https://filament.com">
-  <img src="https://rb.gy/m04op4"width="46" height="46/>
+<a href="https://filamentphp.com">
+  <img src="https://rb.gy/m04op4"width="46" height="46"/>
 </a>
 
-<a href="https://livewire.com">
-  <img src="https://rb.gy/i7cq0f" width="48" height="48/>
+<a href="https://livewire.laravel.com/">
+  <img src="https://rb.gy/i7cq0f" width="48" height="48"/>
 </a>
 
-<a href="https://https://obsidian.md/">
+<a href="https://obsidian.md/">
   <img src="https://skillicons.dev/icons?i=obsidian"/>
 </a>
 
-<a href="https://https://firebase.google.com/">
+<a href="https://firebase.google.com/">
   <img src="https://skillicons.dev/icons?i=firebase"/>
 </a>
 
@@ -160,7 +160,7 @@
   <img src="https://rb.gy/c5mw4b" width="48" height="48"/>
 </a>
 
-<a href="https://https://www.wampserver.com/">
+<a href="https://www.wampserver.com/">
   <img src="https://rb.gy/uov90e" width="48" height="48"/>
 </a>
 
@@ -184,7 +184,7 @@
   <img src="https://skillicons.dev/icons?i=md"/>
 </a>
 
-<a href="https://https://www.python.org/">
+<a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=py"/>
 </a>
 
@@ -196,7 +196,7 @@
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://androidstudio.com">
+<a href="https://developer.android.com/studio">
   <img src="https://skillicons.dev/icons?i=androidstudio"/>
 </a>
 </p>
