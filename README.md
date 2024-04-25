@@ -125,47 +125,43 @@
   </a>
 
 <a href="https://filament.com">
-  <img src="https://skillicons.dev/icons?i=filament"/>
+  <img src="https://rb.gy/m04op4"width="46" height="46/>
 </a>
 
 <a href="https://livewire.com">
-  <img src="https://skillicons.dev/icons?i=livewire"/>
+  <img src="https://rb.gy/i7cq0f" width="50" height="50/>
 </a>
 
-<a href="https://obsidian.com">
+<a href="https://https://obsidian.md/">
   <img src="https://skillicons.dev/icons?i=obsidian"/>
 </a>
 
-<a href="https://firebase.com">
+<a href="https://https://firebase.google.com/">
   <img src="https://skillicons.dev/icons?i=firebase"/>
 </a>
 
 <a href="https://heidisql.com">
-  <img src="https://skillicons.dev/icons?i=heidisql"/>
+  <img src="https://rb.gy/gfnsx8" width="50" height="50" />
 </a>
 
 <a href="https://discord.com">
   <img src="https://skillicons.dev/icons?i=discord"/>
 </a>
 
-<a href="https://heroicons.com">
-  <img src="https://skillicons.dev/icons?i=heroicons"/>
-</a>
-
 <a href="https://spatie.be">
-  <img src="https://skillicons.dev/icons?i=spatie"/>
+  <img src="https://rb.gy/4vhrsn" width="48" height="48"/>
 </a>
 
 <a href="https://laragon.org">
-  <img src="https://skillicons.dev/icons?i=laragon"/>
+  <img src="https://www.onworks.net/imagescropped/laragonicon.png_3.webp" width="48" height="48"/>
 </a>
 
-<a href="https://xampp.com">
-  <img src="https://skillicons.dev/icons?i=xampp"/>
+<a href="https://www.apachefriends.org/">
+  <img src="https://rb.gy/c5mw4b" width="48" height="48"/>
 </a>
 
-<a href="https://wampp.com">
-  <img src="https://skillicons.dev/icons?i=wampp"/>
+<a href="https://https://www.wampserver.com/">
+  <img src="https://rb.gy/uov90e" width="48" height="48"/>
 </a>
 
 <a href="https://ubuntu.com">
@@ -184,11 +180,11 @@
   <img src="https://skillicons.dev/icons?i=windows"/>
 </a>
 
-<a href="https://md.com">
+<a href="https://www.markdownguide.org/">
   <img src="https://skillicons.dev/icons?i=md"/>
 </a>
 
-<a href="https://py.com">
+<a href="https://https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=py"/>
 </a>
 
@@ -200,18 +196,9 @@
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://visualbasic.net">
-  <img src="https://skillicons.dev/icons?i=visualbasic"/>
-</a>
-
 <a href="https://androidstudio.com">
   <img src="https://skillicons.dev/icons?i=androidstudio"/>
 </a>
-
-<a href="https://firebase.com">
-  <img src="https://skillicons.dev/icons?i=firebase"/>
-</a>
-  
 </p>
 
 <!--Logo Only doesnt have a link 
