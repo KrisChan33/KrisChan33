@@ -199,6 +199,11 @@
 <a href="https://developer.android.com/studio">
   <img src="https://skillicons.dev/icons?i=androidstudio"/>
 </a>
+
+<a href="https://developer.android.com/studio">
+  <img src="https://skillicons.dev/icons?i=figma"/>
+</a>
+
 </p>
 
 <!--Logo Only doesnt have a link 
