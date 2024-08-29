@@ -24,7 +24,7 @@
 </a>
  
 <a href="https://www.facebook.com/profile.php?id=100092249816147">
-    <img src="https://scontent.fmnl30-2.fna.fbcdn.net/v/t39.8562-6/422083590_1312812522712666_5569536549360094726_n.png?_nc_cat=111&ccb=1-7&_nc_sid=f537c7&_nc_ohc=IJbeSPcSEEMQ7kNvgFB3HKY&_nc_ht=scontent.fmnl30-2.fna&oh=00_AYDOmeta7tDvg4ORwJCJn32LqH0lmcg1y30OlKrhnPvffQ&oe=66D5AEFC" alt="Facebook" width="50px" height="50px" />
+    <img src="https://clipart-library.com/clipart/LTd54rpac.htm" alt="Facebook" width="50px" height="50px" />
 </a>
 
 <a href="https://www.behance.net/kristianjaytadeo">
