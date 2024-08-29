@@ -24,7 +24,7 @@
 </a>
  
 <a href="https://www.facebook.com/profile.php?id=100092249816147">
-    <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/facebook-icon" alt="Facebook" width="50px" height="50px" />
+    <img src="https://www.facebook.com/" alt="Facebook" width="50px" height="50px" />
 </a>
 
 <a href="https://www.behance.net/kristianjaytadeo">
