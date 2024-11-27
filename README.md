@@ -260,7 +260,8 @@ This are the list of resources I find helpful and would like to give credit. I'v
 * [Readme Typing SVG](https://elements.heroku.com/buttons/denvercoder1/readme-typing-svg)
 * [Github Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
- -->
+
 <hr>
 
 created by [Kristian Jay Tadeo](https://rb.gy/evz163) | Thank you for Visiting🙏
+ -->
