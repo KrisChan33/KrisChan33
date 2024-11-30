@@ -17,6 +17,7 @@
 - ⚡ Fun fact **I Love Coding 👨‍💻**
 
 
+
 ## 📠 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/kristian-jay-tadeo">
