@@ -87,10 +87,11 @@
     <img src="https://skillicons.dev/icons?i=laravel"/>
   </a>
   
+  <!--
   <a href="https://filamentphp.com">
     <img src="https://rb.gy/m04op4" width="46" height="46"/>
   </a>
-
+-->
   <a href="https://livewire.laravel.com/">
     <img src="https://rb.gy/i7cq0f" width="48" height="48"/>
   </a>
