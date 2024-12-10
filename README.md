@@ -70,6 +70,15 @@
   <a href="https://python.org">
     <img src="https://skillicons.dev/icons?i=python"/>
   </a>
+
+<a href="https://gdscript.com/">
+    <img style="height:50px; width:55px" src="https://res.cloudinary.com/otakucms/image/upload/gdscript/gdscript-dude_c6cdt3.png"/>
+  </a>
+
+<a href="https://lua.org/home.html">
+    <img style="height:50px; width:55px" src="https://lua.org/images/luaa.gif"/>
+  </a>
+  
 </p>
 
 
