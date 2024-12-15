@@ -162,13 +162,16 @@
     <img src="https://skillicons.dev/icons?i=mysql&theme=light " />
   </a>
 
-
   <a href="https://postgresql.org">
     <img src="https://skillicons.dev/icons?i=postgresql&theme=light" />
   </a>
 
   <a href="https://heidisql.com">
     <img src="https://rb.gy/gfnsx8" width="50" height="50" />
+  </a>
+
+  <a href="https://tableplus.com/">
+    <img src="https://tableplus.com/resources/favicons/apple-icon-60x60.png" width="50" height="50" />
   </a>
 </p>
 
