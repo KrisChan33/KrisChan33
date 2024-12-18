@@ -69,13 +69,17 @@
   <a href="https://python.org">
     <img src="https://skillicons.dev/icons?i=python"/>
   </a>
+  
+ <a href="https://alpinejs.dev/">
+    <img  src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg" alt="Alpine.js logo vector" style="height:45px; width:60px"/>
+  </a>
 
 <a href="https://gdscript.com/">
-    <img style="height:45px; width:50px" src="https://res.cloudinary.com/otakucms/image/upload/gdscript/gdscript-dude_c6cdt3.png"/>
+    <img style="height:45px; width:55px" src="https://res.cloudinary.com/otakucms/image/upload/gdscript/gdscript-dude_c6cdt3.png"/>
   </a>
 
 <a href="https://create.roblox.com/">
-    <img style="height:45px; width:50px"     src="https://imgs.search.brave.com/DzIFgDFu8j075UkXpkKKE9gU8XfSXoD403KsyxAqfdk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy81/LzU4L1JvYmxveF9T/dHVkaW9fbG9nb18y/MDIxX3ByZXNlbnQu/c3Zn"
+    <img style="height:45px; width:50px" src="https://imgs.search.brave.com/DzIFgDFu8j075UkXpkKKE9gU8XfSXoD403KsyxAqfdk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy81/LzU4L1JvYmxveF9T/dHVkaW9fbG9nb18y/MDIxX3ByZXNlbnQu/c3Zn"
      />
   </a>
   
