@@ -76,7 +76,7 @@
   </a>
 
 <a href="https://gdscript.com/">
-    <img style="height:35px; width:45px" src="https://res.cloudinary.com/otakucms/image/upload/gdscript/gdscript-dude_c6cdt3.png"/>
+    <img style="height:40px; width:50px" src="https://res.cloudinary.com/otakucms/image/upload/gdscript/gdscript-dude_c6cdt3.png"/>
   </a>
 
 </p>
