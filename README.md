@@ -72,7 +72,7 @@
   </a>
   
  <a href="https://alpinejs.dev/">
-    <img  src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg" alt="Alpine.js logo vector" style="height:45px; width:60px"/>
+    <img  src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg" alt="Alpine.js logo vector" style="height:35px; width:50px"/>
   </a>
 
 <a href="https://gdscript.com/">
