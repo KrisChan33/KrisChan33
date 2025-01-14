@@ -233,7 +233,6 @@
 <!--Logo Only doesnt have a link 
 ![skills](https://skillicons.dev/iconsi=html,css,bootstrap,java,js,php,mysql,python,vscode,arduino,blender,photoshop,linux&theme=light)
 -->
----
 ## Account Details
 <p align="left"> <img src="https://rb.gy/6hj1ce" alt="krischan33" /></p>
 
