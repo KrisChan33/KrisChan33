@@ -235,39 +235,39 @@
 -->
 ---
 ## Account Details
-<p align="left"> <img src="https://rb.gy/6hj1ce" alt="krischan33" /> </p>
+<p align="left"> <img src="https://rb.gy/6hj1ce" alt="krischan33" /></p>
 
-<details>
- <summary>&#9889 <b>GitHub Statistics</b></summary><br/>
+<summary>&#9889GitHub Statistics</summary><br/>
 
-![](https://github-readme-stats.vercel.app/api?username=KrisChan33&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KrisChan33&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisChan33&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-</details>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrisChan33&theme=algolia&hide_border=true" height="290px"/></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=KrisChan33&show_icons=true&rank_icon=github&show=prs_merged_percentage&hide=total_issues&theme=default&hide_border=true&icon" height="170px" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrisChan33&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8" height="170px"/>
+</div>
 
 <!--2nd Readme Editor-->
-<details>
-    <summary>&#127942 <b>GitHub Trophies</b></summary><br/>
 
+<summary>&#127942  Trophies</summary><br/>
+<div align="center">
+ 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=krisChan33)
+</div>
+ 
 <!-- other design of trophy
 ![](https://github-profile-tropy.vercel.app/?username=KrisChan33&theme=flat&no-frame=false&no-bg=false&margin-w=4)-->
-</details>
 
 
-<details>
-    <summary>🔝<b>Top Contributed Repository</b></summary><br/>
 
-![Github Top Repo](https://github-contributor-stats.vercel.app/api?username=KrisChan33&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</details>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<hr> </hr>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### ✍️ Random Dev Quote
-![](https://rb.gy/zarqxi)
+<div align="center">
 
+![](https://rb.gy/zarqxi)
+</div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<hr> </hr>
 <!--
 ## 💰 You can help me by Donating
  [![BuyMeACoffee](https://rb.gy/drv33t)](https://rb.gy/bdsyzz) 
