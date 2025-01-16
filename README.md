@@ -35,7 +35,7 @@
 
 </p>
 
-## Languages and 🛠 Tools
+## Languages and 🛠 Software Tools
 
 ##### Programming Languages
 <p align="">
