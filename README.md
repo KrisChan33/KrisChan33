@@ -18,17 +18,23 @@
 
 
 ## 📠 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/kristian-jay-tadeo">
+<p align="left" right="40px">
+<!-- <a href="https://www.linkedin.com/in/kristian-jay-tadeo">
     <img src="https://rb.gy/k3m45n" alt="LinkedIn" width="50px" height="50px" />
 </a>
- 
-<a href="https://www.facebook.com/profile.php?id=100092249816147">
+  -->
+<!-- <a href="https://www.facebook.com/profile.php?id=100092249816147">
     <img src="https://freepnglogo.com/images/all_img/facebook-circle-logo-png.png" alt="Facebook" width="50px" height="50px" />
-</a>
-
+</a> -->
+ 
+<!-- 
 <a href="https://www.behance.net/kristianjaytadeo">
     <img src="https://rb.gy/4v8w40" alt="Behance" width="50px" height="50px" style="border-radius: 10%;" />
+</a>-->
+
+<a href="https://shorturl.at/K9WgR" >
+    <img src="https://github.com/KrisChan33/KrisChan33/blob/main/qrcode_kristianjaytadeo.png" alt="ScanQR" width="100px" height="100px" style="border-radius: 10%;"/>
+</br>Scan or Click
 </a>
 
 
