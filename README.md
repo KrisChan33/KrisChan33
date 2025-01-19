@@ -18,7 +18,7 @@
 
 
 ## 📠 Connect with me
-<p align="left" right="40px">
+<p align="left">
 <!-- <a href="https://www.linkedin.com/in/kristian-jay-tadeo">
     <img src="https://rb.gy/k3m45n" alt="LinkedIn" width="50px" height="50px" />
 </a>
@@ -32,9 +32,9 @@
     <img src="https://rb.gy/4v8w40" alt="Behance" width="50px" height="50px" style="border-radius: 10%;" />
 </a>-->
 
-<a href="https://shorturl.at/K9WgR" >
+<a target="_blank" href="https://shorturl.at/UCkHZ">
     <img src="https://github.com/KrisChan33/KrisChan33/blob/main/qrcode_kristianjaytadeo.png" alt="ScanQR" width="100px" height="100px" style="border-radius: 10%;"/>
-</br>Scan or Click
+</br> Scan or Click
 </a>
 
 
