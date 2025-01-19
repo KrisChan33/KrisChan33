@@ -35,7 +35,7 @@
 <a target="_blank" href="https://shorturl.at/UCkHZ">
     <img src="https://github.com/KrisChan33/KrisChan33/blob/main/qrcode_kristianjaytadeo.png" alt="ScanQR" width="100px" height="100px" style="border-radius: 10%;"/>
 </a>
-</br> Scan or Click
+</br> My Dev Card 
 
 
 </p>
