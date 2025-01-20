@@ -40,7 +40,7 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a target="_blank" href="https://shorturl.at/UCkHZ">
        <img src="https://github.com/KrisChan33/KrisChan33/blob/main/qrcode_kristianjaytadeo.png" alt="ScanQR" width="100px" height="100px" style="border-radius: 10%;"/>
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </br>&nbsp;&nbsp;&nbsp;&nbsp; My Developer Card 
+      </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My Developer Card 
     </td>
   </tr>
 </table>
