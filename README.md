@@ -18,7 +18,7 @@
 
 
 ## 📠 Connect with me
-<p align="left">
+<p style="padding-left: 150px;">
 <!-- <a href="https://www.linkedin.com/in/kristian-jay-tadeo">
     <img src="https://rb.gy/k3m45n" alt="LinkedIn" width="50px" height="50px" />
 </a>
@@ -32,12 +32,18 @@
     <img src="https://rb.gy/4v8w40" alt="Behance" width="50px" height="50px" style="border-radius: 10%;" />
 </a>-->
 
-<a target="_blank" href="https://shorturl.at/UCkHZ">
-    <img src="https://github.com/KrisChan33/KrisChan33/blob/main/qrcode_kristianjaytadeo.png" alt="ScanQR" width="100px" height="100px" style="border-radius: 10%;"/>
-</a>
-</br> My Dev Card 
 
-
+<table>
+  <tr>
+    <td style="padding-left: 1050 px;">
+     </br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a target="_blank" href="https://shorturl.at/UCkHZ">
+       <img src="https://github.com/KrisChan33/KrisChan33/blob/main/qrcode_kristianjaytadeo.png" alt="ScanQR" width="100px" height="100px" style="border-radius: 10%;"/>
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </br>&nbsp;&nbsp;&nbsp;&nbsp; My Developer Card 
+    </td>
+  </tr>
+</table>
 </p>
 
 ## Languages and 🛠 Software Tools
