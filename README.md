@@ -1,6 +1,8 @@
-<a name="readme-top"> </a >
+<p align="right" ><img src="https://rb.gy/6hj1ce" alt="krischan33" /></p>
+
 # Hi 👋, I'm Kristian Jay Tadeo
 
+    
 ![logo](https://github.com/KrisChan33/KrisChan33/blob/main/githubimage.png)
 <h3 align="">A passionate Full Stack Web Developer in the Philippines</h3>
 <img align="right" alt="coding" width="350" src="https://rb.gy/mbprke">
@@ -245,7 +247,6 @@
 ![skills](https://skillicons.dev/iconsi=html,css,bootstrap,java,js,php,mysql,python,vscode,arduino,blender,photoshop,linux&theme=light)
 -->
 ## Account Details
-<p align="left"> <img src="https://rb.gy/6hj1ce" alt="krischan33" /></p>
 
 <summary>&#9889GitHub Statistics</summary><br/>
 
