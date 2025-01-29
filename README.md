@@ -277,7 +277,7 @@
 ![](https://rb.gy/zarqxi)
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">back to top</a>)</p>
 <hr> </hr>
 <!--
 ## 💰 You can help me by Donating
