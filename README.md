@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Godot, Photoshop, Laravel and etc.**
 
-- 📫 How to reach me **ktadeo.pbox@parsu.edu**
+- 📫 How to reach me **Kristianjaytadeo11@gmail.com**
 
 - ⚡ Fun fact **I Love Coding 👨‍💻**
 
