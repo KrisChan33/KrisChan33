@@ -1,3 +1,6 @@
+<hr> </hr>
+
+
 <p align="right" id="readme-top" ><img src="https://rb.gy/6hj1ce" alt="krischan33" /></p>
 
 # Hi 👋, I'm Kristian Jay Tadeo
