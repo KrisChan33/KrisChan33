@@ -277,8 +277,6 @@
 ![](https://rb.gy/zarqxi)
 </div>
 
-<p align="center">(<a href="#readme-top">back to top</a>)</p>
-
 <div align="center">
   <a href="#readme-top">(Back to top)</a>
 </div>
