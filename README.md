@@ -1,4 +1,4 @@
-<p align="right" ><img src="https://rb.gy/6hj1ce" alt="krischan33" /></p>
+<p align="right" id="readme-top" ><img src="https://rb.gy/6hj1ce" alt="krischan33" /></p>
 
 # Hi 👋, I'm Kristian Jay Tadeo
 
@@ -278,6 +278,11 @@
 </div>
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
+
+<div align="center">
+  <a href="#readme-top">(Back to top)</a>
+</div>
+
 <hr> </hr>
 <!--
 ## 💰 You can help me by Donating
