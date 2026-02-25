@@ -177,7 +177,7 @@
   </a>
 
   <a href="https://heidisql.com">
-    <img src="https://rb.gy/gfnsx8" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="50" height="50" />
   </a>
 
   <a href="https://tableplus.com/">
@@ -234,15 +234,15 @@
 ##### Hosting & Local Development Tools
 <p align="">
   <a href="https://laragon.org">
-    <img src="https://www.onworks.net/imagescropped/laragonicon.png_3.webp" width="48" height="48"/>
+    <img src="https://laragon.org/logo.svg" width="48" height="48"/>
   </a>
 
   <a href="https://www.apachefriends.org/">
-    <img src="https://rb.gy/c5mw4b" width="48" height="48"/>
+    <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="48" height="48"/>
   </a>
 
   <a href="https://www.wampserver.com/">
-    <img src="https://rb.gy/uov90e" width="48" height="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" width="48" height="48"/>
   </a>
 </p>
 
@@ -255,17 +255,22 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrisChan33&theme=algolia&hide_border=true" height="290px"/></br>
+   
+  <!--
+  Not working!
+  
   <img src="https://github-readme-stats.vercel.app/api?username=KrisChan33&show_icons=true&rank_icon=github&show=prs_merged_percentage&hide=total_issues&theme=default&hide_border=true&icon" height="170px" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrisChan33&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8" height="170px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrisChan33&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8" height="170px"/> -->
 </div>
+
 
 <!--2nd Readme Editor-->
 
-<summary>&#127942  Trophies</summary><br/>
+<!-- <summary>&#127942  Trophies</summary><br/>
 <div align="center">
- 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=krisChan33)
-</div>
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=krisChan33&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div> -->
  
 <!-- other design of trophy
 ![](https://github-profile-tropy.vercel.app/?username=KrisChan33&theme=flat&no-frame=false&no-bg=false&margin-w=4)-->
